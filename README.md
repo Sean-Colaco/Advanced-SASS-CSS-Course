@@ -1,7 +1,7 @@
 # Advanced-SASS-CSS-Course
 Here I showcase some skills I learnt from an advanced SASS course by Jonas Schmedtmann
 
-## In total the whole course was 28 hours long.
+## The whole course was 28 hours long.
 
 ## Completely Responsive!
 
@@ -11,7 +11,7 @@ There was three main projects. Natours, Nexter and Trillo.
 Here are some pictures of the work I completed, if you want to enjoy the full experience of the applications then feel free to clone the projects to see all of the interactive animations.
 
 # Natours
-In this application I learnt a lot about SASS and advanced responsive design!
+In this application I learnt a lot about SASS/SCSS and advanced responsive design!
 
 <img src='/readMeImages/NATOURS/Screenshot%20(56).png'>
 
@@ -50,5 +50,5 @@ In this application I created a very stylish layout using grid along side SASS/S
 <img src='/readMeImages/NEXTER/Screenshot%20(69).png'>
 
 # Course by Jonas Schmedtmann
-visit <a href='https://www.udemy.com/user/jonasschmedtmann/'>Jonas Schmedtmann</a> for more online courses!
+Visit <a href='https://www.udemy.com/user/jonasschmedtmann/'>Jonas Schmedtmann</a> for more online courses!
 
