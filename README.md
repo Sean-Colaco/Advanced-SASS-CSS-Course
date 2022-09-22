@@ -1,7 +1,7 @@
 # Advanced-SASS-CSS-Course
 Here I showcase some skills I learnt from an advanced SASS course by Jonas Schmedtmann
 
-## The whole course was 28 hours long.
+## The whole course was 28 hours long!
 
 ## Completely Responsive!
 
